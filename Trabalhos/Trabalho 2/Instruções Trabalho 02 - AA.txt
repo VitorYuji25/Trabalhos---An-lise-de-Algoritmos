@@ -1,0 +1,11 @@
+Implementar os algoritmos para solucionar os seguintes problemas:
+
+Dada uma matriz de inteiros, com cada linha ordenada e cada coluna ordenada, desenvolva um algoritmo para saber se um inteiro $k$ pertence à matriz;
+Dado um vetor de strings, determine o prefixo comun máximo. Por exemplo ['abcd','abxy','abcx','abzzzzzzz'] tem prefixo comum máximo 'ab'
+(Target Sum) Dado um vetor de inteiros e um ``alvo'' $K$, pergunta-se de quantos formas diferentes   todos elementos do vetor podem ser somados ou subtraídos para somarem $k$. Por exemplo, com $V=[1,2,1,3]$ e $k=1$, temos 1 = +1 -2 -1 +3 = -1 -2 +1 +3= +1 -2 -1 +3 = ...
+
+Cada problema admite soluções diretas e ineficientes e soluções melhores (DC,DC e PD, respectivamente). Voces devem implementar os dois tipos de soluções, garantir a sua corretude, e fazer um comparativo (memória, CPU,...)
+
+Grupos de ate 2 alunos.
+
+Entrega um PDF com, codigo fonte de qualidade (identação, comentarios, nomes adequados, que NAO sejam imagem...) e analises.

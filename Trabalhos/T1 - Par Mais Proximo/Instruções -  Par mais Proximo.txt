@@ -1,0 +1,6 @@
+Instruções:
+Implementar a resolução para o Problema do Par Mais Proximo  usando  as seguintes abordagens:
+
+Busca exaustiva com todos os pares, com complexidade O(n^2);
+Divisão e conquista com a ordenação "simples" em cada chamada (informalmente vimos que esta solução tem complexidade O(n(lg n)^2) 
+Divisao e Conqeuista usando a tecnica "pig back": "aproveitar" as recursões e trocar a ordenação - que gasta O(n lgn) por chamda - , por um merge menos complexo, resultando em um algoritmo final O(n lg n) 
